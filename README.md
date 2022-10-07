@@ -17,4 +17,13 @@ One of the main challenges we ran into was how to make projects which were easy 
 ## Check Out the Project :
 <a href="https://krishgaur1354.github.io/Beginners-Start/"><img src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/c3e5991984e3466bb0ffebf017252b36/projects/8006f3bde34d4a7e94dd8b9fbb714e2b/23847ffe-6a73-43fa-a779-637ad9b393c8.png"></a>
 
+<h3>Check Out Java Repo :</h3>
+<a href="https://github.com/KrishGaur1354/Java-Projects-for-Beginners">
+<img src="https://socialify.git.ci/KrishGaur1354/Java-Projects/image?font=KoHo&language=1&logo=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F05%2FJava-PNG-Clipart.png&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" , width=450 , length=450></a>
 
+<h3>Check Out Python Repo :</h3>
+<a href="https://github.com/KrishGaur1354/Python-Projects-for-Beginners">
+<img src="https://socialify.git.ci/KrishGaur1354/Personal-Python-Projects/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" , width=450 , length=450></a>
+
+
+---

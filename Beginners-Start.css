@@ -595,16 +595,16 @@
 }
 
 .u-section-3 .u-shape-2 {
-  width: 228px;
-  height: 228px;
+  display: flex;
+  align-items: center;
+  width: 220px;
+  height: 220px;
   background-image: linear-gradient(to right, #478ac9, #f1c50e);
-  margin: -15px calc(((100% - 1140px) / 2) + 437px) 0 auto;
+  margin: 15px calc(((100% - 1140px) / 2) + 450px) 0 auto;
 }
 
 .u-section-3 .u-image-1 {
-  height: 228px;
-  width: 1388px;
-  margin: -238px calc(((100% - 1140px) / 2) + -143px) 0 auto;
+  /* background-size:cover; */
 }
 
 .u-section-3 .u-image-2 {

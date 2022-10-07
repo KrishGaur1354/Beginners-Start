@@ -360,7 +360,7 @@ span.fr-img-caption.fr-view {
       float: right;
       margin: 5px 0 5px 5px;
       max-width: calc(100% - 5px); }
-/*end-commonstyles library*/@charset "UTF-8";
+/*end-commonstyles library@charset "UTF-8";*/
 .u-hidden-block {
   visibility: hidden!important;
 }
@@ -38400,8 +38400,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
+  width: 50%;
+  height: 50%;
+  margin:50px 0 0 50px;
 }
 
 .u-footer .u-text-1 {

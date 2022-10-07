@@ -1,4 +1,7 @@
-# Beginners-Start
+<div align="center"><h1>Beginner's Start</h1></div>
+<div align="center"><h1></h1></div>
+
+---
 
 ### About the Project : 
 It's a platform that provides beginners with a Bunch of Project Ideas that they can build. It contains Screenshots and snippets of how the code should look for them.

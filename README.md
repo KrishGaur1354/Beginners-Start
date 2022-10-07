@@ -1,10 +1,20 @@
-<div align="center"><a href="https://krishgaur1354.github.io/Beginners-Start/"><h1>Beginner's Start</h1></a></div>
 <div align="center"><img src="https://github.com/KrishGaur1354/Beginners-Start/blob/main/images/picto_118_183.png" , width=350 , length=450></div>
+<div align="center"><a href="https://krishgaur1354.github.io/Beginners-Start/"><h1>Beginner's Start</h1></a></div>
+
+![Language](https://img.shields.io/github/languages/count/KrishGaur1354/Beginners-Start)
+![Language](https://img.shields.io/github/directory-file-count/KrishGaur1354/Beginners-Start)
+![Language](https://img.shields.io/github/issues/KrishGaur1354/Beginners-Start)
+![Language](https://img.shields.io/github/followers/KrishGaur1354?style=social)
+![Language](https://img.shields.io/github/forks/KrishGaur1354/Beginners-Start?style=social)
+![Language](https://img.shields.io/github/stars/KrishGaur1354?style=social)
+![Language](https://img.shields.io/github/v/release/KrishGaur1354/Beginners-Start)
+![Language](https://img.shields.io/github/commit-activity/w/KrishGaur1354/Beginners-Start)
+![Language](https://img.shields.io/github/watchers/KrishGaur1354/Beginners-Start?style=social)
 
 ---
 
 ### About the Project : 
-It's a platform that provides beginners with a Bunch of Project Ideas that they can build. It contains Screenshots and snippets of how the code should look for them.
+It's a platform that provides beginners with a Bunch of Project Ideas that they can build. It contains Screenshots and snippets of how the code should look for them.<a href="https://youtu.be/nITBf2MjTlI">Check out our Youtube Video on the Project.</a>
 
 ### The problem Beginner's Start solves :
 The biggest problem for new learners learning a computer language is that once they learn the language they don't know where and how to implement it. Our platform provides beginners with a Bunch of Project Ideas that they can build. It contains Screenshots and snippets of how the code should look for them. Our website is currently in work but could be breifly viewied for basic use.

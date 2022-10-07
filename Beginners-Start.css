@@ -626,6 +626,28 @@
   margin: -174px auto 0 calc(((100% - 1140px) / 2) + 304px);
 }
 
+#header-child {
+  display: grid;
+  grid-template: repeat(2, auto) / repeat(3, auto);
+  grid-template-areas:
+      "input img harm"
+      "link img harm";
+  align-items: center;
+}
+#header-child > nav {
+  grid-area: harm;
+}
+#header-child > a {
+  grid-area: link;
+  margin: 0;
+  text-align: start;
+}
+#header-child > form {
+  grid-area: input;
+}
+#header-child > img {
+  grid-area: img;
+}
 .u-section-3 .u-image-4 {
   width: 407px;
   height: 170px;

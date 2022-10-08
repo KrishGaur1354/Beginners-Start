@@ -25,6 +25,25 @@
 		"logo": "images/picto_118_183-removebg-preview.png",
 		"sameAs": []
 }</script>
+	<script type="text/javascript">
+"use strict";
+    !function () {
+        var a = window.ChatGen || [];
+        if (!a.loaded) {
+            var s = document.createElement('script');
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://app.chatgen.ai/cmp/chat-widget/bot.js";
+            var fs = document.getElementsByTagName('script')[0];
+            fs.parentNode.insertBefore(s, fs);
+            s.onload=function(){
+                var yourKey = '4OoH72k0'
+                var widgetKey = {widget_key: yourKey}
+                ChatGen.init(widgetKey);
+            }
+        }
+    }();
+</script>
     <meta name="theme-color" content="#478ac9">
     <meta property="og:title" content="Beginners Start">
     <meta property="og:type" content="website">

@@ -1658,6 +1658,10 @@ a {
   width: 100%;
 }
 @media (max-width: 575px) {
+  body {
+    overflow-x:hidden;
+    width:100%;
+  }
   .u-form-vertical .u-form-group {
     width: 100%;
   }
@@ -17068,6 +17072,7 @@ blockquote .small:before {
   position: relative;
   display: flex;
   flex-wrap: nowrap;
+  border-radius: 5px;
 }
 .u-search.u-search-left {
   flex-direction: row;
@@ -38370,7 +38375,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-search-1 {
     width: 182px;
-    margin-left: -50px;
+    /* margin-left: -50px; */
   }
 
   .u-header .u-image-1 {
